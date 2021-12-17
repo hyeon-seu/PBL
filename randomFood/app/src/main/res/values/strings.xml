@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Free Food</string>
+
+    <string name="startBtnTxt">시작</string>
+    <string name="toastNotDataMsg">데이터가 없습니다.</string>
+
+    <!-- 메인페이지 -->
+    <string name="eatja">eat자</string>
+    <string name="mainTxt">이용을 원하시면 시작 버튼을 눌러주세요!</string>
+
+    <!-- 카테고리 선택 페이지 -->
+    <string name="categoryTxt">선택하신 종류에 따라 음식을 추천해드려요</string>
+    <string name="KoreanFood">한식</string>
+    <string name="ChineseFood">중식</string>
+    <string name="JapaneseFood">일식</string>
+    <string name="food">양식</string>
+    <string name="AllFood">모두 선택</string>
+
+    <!-- 랜덤 선택 페이지 -->
+    <string name="randomPageTxt">아래 버튼을 눌러주세요</string>
+    <string name="randomTxt">RANDOM</string>
+    <string name="randomBtnTxt">CLICK</string>
+</resources>

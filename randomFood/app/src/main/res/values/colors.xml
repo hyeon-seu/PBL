@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 공통 컬러 -->
+    <color name="LightPink">#E76591</color>
+    <color name="DarkPink">#DA6F93</color>
+
+    <!-- 메인페이지 컬러 -->
+    <color name="backPick">#ECD2D1</color>
+    <color name="subBackPick">#F1D7D8</color>
+    <color name="mainTxtColor">#CC5652</color>
+
+    <!-- 카테고리 선택 페이지 컬러 -->
+    <color name="twoStageBack">#FAFAFA</color>
+    <color name="categoryTxtColor">#717171</color>
+    <color name="categoryBorderColor">#BF4AD0</color>
+
+    <!-- 랜덤 선택 페이지 컬러 -->
+    <color name="randomPageColor">#DED9C3</color>
+</resources>
